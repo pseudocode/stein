@@ -1,7 +1,7 @@
-all: kilo
+all: stein
 
-kilo: kilo.c
-	$(CC) -o kilo kilo.c -Wall -W -pedantic -std=c99
+stein: stein.c
+	$(CC) -o stein stein.c -Wall -W -pedantic -std=c99
 
 clean:
-	rm kilo
+	rm stein
