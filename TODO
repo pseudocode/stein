@@ -2,7 +2,9 @@ IMPORTANT
 ===
 
 * Testing and stability to reach "usable" level.
+* Add selection
 * Add CUA codes
+* Add xterm mouse for selection
 * Add F-key bar
 
 MAYBE
